@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmcalificacionesestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmcalificacionesestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmagregarprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|c:\\users\\joseph\\desktop\\enunciado 2 carrnet1 = 20250623 carnet2=20250254\\institucion educativa\\vistas\\formularios\\frmagregarprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmcalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmmaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmmaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmaterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\entidades\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF28FCB-4F8E-4F71-9749-74D178EA8DDB}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmcalificacionesestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmcalificacionesestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\vistas\\formularios\\frmdashboardprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6105097A-D5E5-40AB-BB5B-1A76078B85CB}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:07:00.892Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:07:51.37Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCalificacionesEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificacionesEstudiante.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmCalificacionesEstudiante.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificacionesEstudiante.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmCalificacionesEstudiante.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:02:09.122Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAgregarProfesores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmAgregarProfesores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmAgregarProfesores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:59:58.488Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmCalificacionesEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificacionesEstudiante.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmCalificacionesEstudiante.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificacionesEstudiante.cs*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmCalificacionesEstudiante.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:03:38.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Program.cs",
+              "RelativeDocumentMoniker": "Vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Program.cs",
+              "RelativeToolTip": "Vistas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:57:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCalificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificaciones.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmCalificaciones.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificaciones.cs*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmCalificaciones.cs*",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAqwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:55:01.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCalificaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificaciones.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmCalificaciones.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmCalificaciones.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmCalificaciones.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:05:01.28Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDashboardPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:36:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Calificacion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Calificacion.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Calificacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vzgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:57:19.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEstudiantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmEstudiantes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmEstudiantes.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:43:24.107Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIAwwDMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:10:45.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:04:07.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMaterias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmMaterias.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMaterias.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmMaterias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMaterias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:49:37.994Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SesionActual.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\SesionActual.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\SesionActual.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\SesionActual.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\SesionActual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:43:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:39:48.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Materia.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Materia.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Materia.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Materia.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:34:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmEstudiantes.cs*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmEstudiantes.cs*",
+              "ViewState": "AgIAANoAAAAAAAAAAIAwwO0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:45:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMaterias.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmMaterias.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMaterias.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmMaterias.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMaterias.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwM0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:57:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Profesor.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Entidades\\Profesor.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Profesor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:32:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAgregarProfesores.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmAgregarProfesores.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAIAwwPkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:03:34.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Modelo\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Modelo\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:53:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDashboardPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Joseph\\Desktop\\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\\Institucion Educativa\\Vistas\\Formularios\\frmDashboardPrincipal.Designer.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:13:52.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

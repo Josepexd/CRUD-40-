@@ -1,0 +1,120 @@
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Memory.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Memory.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Memory.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Memory.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Memory.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Buffers.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Memory.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Modelo\obj\Debug\Modelo.pdb

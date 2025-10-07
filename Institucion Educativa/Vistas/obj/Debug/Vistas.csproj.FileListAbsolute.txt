@@ -1,0 +1,208 @@
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmProfesor.resources
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\aalde\OneDrive\Escritorio\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\CRUD\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Version 5.20\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Version CRUD 5.5\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Buffers.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Memory.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Buffers.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Memory.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Estudiante\Desktop\Version CRUD 5.7\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Buffers.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Memory.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Buffers.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Memory.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
+C:\Users\aalde\OneDrive\Escritorio\Version CRUD 5.8\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificacionesEstudiante.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\Modelo.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Buffers.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Memory.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Buffers.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Memory.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.exe.config
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificacionesEstudiante.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmAgregarProfesores.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmCalificaciones.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmDashboardPrincipal.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmEstudiantes.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Formularios.frmMaterias.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.exe
+C:\Users\Joseph\Desktop\Enunciado 2 Carrnet1 = 20250623 carnet2=20250254\Institucion Educativa\Vistas\obj\Debug\Vistas.pdb
